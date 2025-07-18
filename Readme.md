@@ -62,7 +62,7 @@ streamlit run app.py
 ## API Key
 
 The app uses **Groq API** to access LLaMA 3 models.
-- A **default Groq API key is included for demo purposes**. For production or heavy usage, [get your own Groq API key](https://console.groq.com/keys) and set it in the code or as an environment variable.
+For production or heavy usage, [get your own Groq API key](https://console.groq.com/keys) and set it in the code or as an environment variable.
 
 ## File Format
 
