@@ -2,7 +2,7 @@
 
 This repository contains a Streamlit web app for **Sentiment Analysis and AI-powered exploration of WhatsApp chat exports**. Upload your exported WhatsApp chat (in `.txt` or `.pdf` format), and interact with a conversational AI assistant to analyze the chat, visualize trends, and get insights—all powered by LLaMA 3 via Groq API.
 
-![screenshot](./screenshot.png)
+
 
 ## Features
 
@@ -18,8 +18,8 @@ This repository contains a Streamlit web app for **Sentiment Analysis and AI-pow
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/whatsapp-sentiment-analysis.git
-cd whatsapp-sentiment-analysis
+git clone https://github.com/ds0905/Sentiment-Analysis-Whatsapp-Chat.git
+cd Sentiment-Analysis-Whatsapp-Chat
 ```
 
 ### 2. Install Requirements
